@@ -10,16 +10,16 @@ For this exercise, we advise you to:
 - Create an account at https://manager.cloudwalk.io/
 ​
 ## 2. Tasks
-​
-### 2.1. Create a Test Plan, Specficication and Test Execution Evidency to https://manager.cloudwalk.io/devices
-​
-- Create a document, or as many documents you need, covering a test plan, specification and a test execution;
+### 2.1. Create a Test Plan, Test Execution Evidency to https://manager.cloudwalk.io/devices
+- Create a document, or as many documents you need, covering a test plan;
 - A description of what part you would manually test or automate and why;
-- Should use Gherkin language to create
+- Should use Gherkin language to create;
 - Questions to ask to the engineers to fill the gap in the documentation.
 ​
-### 2.2. Create functional test
-​
+### 2.2. Create a bug report
+- Create a documento with a bug report
+
+### 2.3. Create functional test
 - Use the web site https://manager.cloudwalk.io/devices
 - Use git and split your commits;
 - You should user Capybara and Ruby language
