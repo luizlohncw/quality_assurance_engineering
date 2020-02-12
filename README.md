@@ -2,7 +2,7 @@
 ​
 ## 1. Introduction
 ​
-This is a test created to a job position interview.
+This is a test created to a job position interview.  
 ​
 For this exercise, we advise you to: 
 - We would recomend work with linux/Mac;
@@ -19,11 +19,11 @@ For this exercise, we advise you to:
 ### 2.2. Create a bug report
 - Create a documento with a bug report
 
-### 2.3. Create functional test
+### 2.3. Create a automated testing
 - Use the web site https://manager.cloudwalk.io/devices
 - Use git and split your commits;
 - You should user Capybara and Ruby language
-- Automated 2 scenarios of testing
+- Automated 2 scenarios of test plan
 ​
 ## 3. Share
 You should send the automated testing repository link and documentation for luiz.lohn@cloudwalk.io
